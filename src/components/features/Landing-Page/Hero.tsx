@@ -29,7 +29,7 @@ const Hero = () => {
         transition={{ duration: 0.6, delay: 0.1 }}
         viewport={{ once: true }}
       >
-        SATs Preparation Made
+        Me Eat Chicken
       </motion.h1>
       <motion.h1
         className="relative z-10 text-[45px] sm:text-[70px] font-[600] leading-[1.1em] tracking-[-0.055em]"
@@ -38,7 +38,7 @@ const Hero = () => {
         transition={{ duration: 0.6, delay: 0.2 }}
         viewport={{ once: true }}
       >
-        Simple and Effective.
+        Gleb Eat Chicken
       </motion.h1>
 
       <motion.div
@@ -48,7 +48,7 @@ const Hero = () => {
         transition={{ duration: 0.5, delay: 0.3 }}
         viewport={{ once: true }}
       >
-        DailySAT is your go-to source. It is made for anyone, anywhere, anytime!
+        [Redacted] is your go-to source. It is made for anyone, anywhere, anytime!
       </motion.div>
 
       <motion.div
